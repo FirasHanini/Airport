@@ -1,0 +1,11 @@
+C:\Users\Utilisateur 2\Desktop\DOTnet\aerportManagement2\aerportManagement2\bin\Debug\net6.0\aerportManagement2.deps.json
+C:\Users\Utilisateur 2\Desktop\DOTnet\aerportManagement2\aerportManagement2\bin\Debug\net6.0\aerportManagement2.dll
+C:\Users\Utilisateur 2\Desktop\DOTnet\aerportManagement2\aerportManagement2\bin\Debug\net6.0\aerportManagement2.pdb
+C:\Users\Utilisateur 2\Desktop\DOTnet\aerportManagement2\aerportManagement2\obj\Debug\net6.0\aerportManagement2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Utilisateur 2\Desktop\DOTnet\aerportManagement2\aerportManagement2\obj\Debug\net6.0\aerportManagement2.AssemblyInfoInputs.cache
+C:\Users\Utilisateur 2\Desktop\DOTnet\aerportManagement2\aerportManagement2\obj\Debug\net6.0\aerportManagement2.AssemblyInfo.cs
+C:\Users\Utilisateur 2\Desktop\DOTnet\aerportManagement2\aerportManagement2\obj\Debug\net6.0\aerportManagement2.csproj.CoreCompileInputs.cache
+C:\Users\Utilisateur 2\Desktop\DOTnet\aerportManagement2\aerportManagement2\obj\Debug\net6.0\aerportManagement2.dll
+C:\Users\Utilisateur 2\Desktop\DOTnet\aerportManagement2\aerportManagement2\obj\Debug\net6.0\refint\aerportManagement2.dll
+C:\Users\Utilisateur 2\Desktop\DOTnet\aerportManagement2\aerportManagement2\obj\Debug\net6.0\aerportManagement2.pdb
+C:\Users\Utilisateur 2\Desktop\DOTnet\aerportManagement2\aerportManagement2\obj\Debug\net6.0\ref\aerportManagement2.dll
